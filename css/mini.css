@@ -1,0 +1,50 @@
+
+        body{
+            background-color: lightgray;
+            font-family: sans-serif;
+        }
+        .asli{
+            box-sizing: border-box;
+            background-color: white;
+            width: 500px;
+            height: 400px;
+            margin: auto;
+            text-align: center;
+            padding:30px 0;
+            margin-top: 80px;
+            box-shadow: 0 0 15px #7a7c80;
+            border-radius: 10px;
+        }
+        .social{
+            box-sizing: border-box;
+            background-color: gray;
+            height: 50px;
+            text-align: center;
+            padding-bottom: 10px;
+            
+                
+        }
+.social img{
+    height: 40px;
+    margin: 10px;
+    background-color: #fff;
+    border-radius: 50%;
+}
+.logo{
+    height: 150px;
+    display: block;
+    margin: auto;
+    border: 5px dotted red;
+    border-radius: 50%;
+}
+.title{
+    border-bottom: 5px solid gray;
+    font-size: 25px;
+    width: 160px;
+    margin:25px auto;
+    color: #7a7c80
+}
+.desc{
+    text-align: center;
+    color: #7a7c80
+}
